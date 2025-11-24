@@ -39,3 +39,11 @@
     border-color: black;
     min-height: 150px;
 }
+
+/* FOOTER */
+
+.firma{
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
