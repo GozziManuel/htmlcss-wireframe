@@ -14,3 +14,11 @@
 .padding{
     padding: 10px;
 }
+
+/* SEPARATORE */
+
+.separator{
+    height: 2px;
+    background-color: black;
+}
+
